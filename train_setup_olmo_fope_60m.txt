@@ -1,4 +1,4 @@
-
+https://huggingface.co/papers/2412.17739#67750460ddaa08bdf6c7a3a4
 
 sure, but the config may be revised in our published code, as there are so many redundant hyper-parameter for debug.
 
