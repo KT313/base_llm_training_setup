@@ -1,0 +1,4 @@
+[submodule "OLMo"]
+	path = OLMo
+	url = https://github.com/allenai/OLMo.git
+	branch = main
